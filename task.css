@@ -1,0 +1,22 @@
+img{
+    width: 150px;
+    border-radius: 20px;
+    border: solid rgb(67, 41, 75) 5px ;
+    margin-left: 40px;
+  
+}
+h1{
+    display: block;
+}
+/* div1{
+    width: 0%;
+    height: 0%;
+    background-origin: padding-box;
+    background-color: blue;
+    border: 1px solid blue;
+    border-color: aqua;
+} */
+h2{ 
+    border-bottom: 3px solid blue;
+    color: white;
+}
